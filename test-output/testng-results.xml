@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-19T00:12:23 IST" name="Default suite" finished-at="2023-01-19T00:13:56 IST" duration-ms="92599">
+    <groups>
+    </groups>
+    <test started-at="2023-01-19T00:12:23 IST" name="Default test" finished-at="2023-01-19T00:13:56 IST" duration-ms="92599">
+      <class name="io.sgp.TestLayer.PageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:io.sgp.TestLayer.PageTest@6dc17b83]" started-at="2023-01-19T00:12:23 IST" name="setup" finished-at="2023-01-19T00:13:26 IST" duration-ms="63016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAmountSorted()[pri:0, instance:io.sgp.TestLayer.PageTest@6dc17b83]" started-at="2023-01-19T00:13:26 IST" name="verifyAmountSorted" finished-at="2023-01-19T00:13:31 IST" duration-ms="5274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAmountSorted -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:io.sgp.TestLayer.PageTest@6dc17b83]" started-at="2023-01-19T00:13:31 IST" name="quit" finished-at="2023-01-19T00:13:34 IST" duration-ms="2689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:io.sgp.TestLayer.PageTest@6dc17b83]" started-at="2023-01-19T00:13:34 IST" name="setup" finished-at="2023-01-19T00:13:50 IST" duration-ms="16351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:io.sgp.TestLayer.PageTest@6dc17b83]" started-at="2023-01-19T00:13:50 IST" name="verifyLogin" finished-at="2023-01-19T00:13:50 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:io.sgp.TestLayer.PageTest@6dc17b83]" started-at="2023-01-19T00:13:50 IST" name="quit" finished-at="2023-01-19T00:13:56 IST" duration-ms="5175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- io.sgp.TestLayer.PageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
